@@ -1,0 +1,16 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "hashmap project for the data structures and algorithms section of the odin project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "type": "module"
+}
